@@ -1,0 +1,2 @@
+# Japan
+vibe coding homework
